@@ -11,3 +11,5 @@ INDIGO_FOOTER_LEGAL_LINKS:
       url: "/tos"
     - title: "Indigo theme for Open edX"
       url: "https://github.com/overhangio/indigo"
+footer_css_urls:
+    - "https://cdn.toolsofthemind.org/tools-lms.css"
